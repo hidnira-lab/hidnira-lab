@@ -6,7 +6,7 @@
 
 ## About Me
 
-- Computer Science student @ UII (Universitas Islam Indonesia)
+- Computer Science student @ UII Yogyakarta
 - Creative Designer & Visual Enthusiast, I like blending code with design
 - Currently working on my personal project
 - Currently learning Rust
