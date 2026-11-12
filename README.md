@@ -10,8 +10,7 @@
 <a href="#focus-areas"><img src="https://img.shields.io/badge/FOCUS-60A1D9?style=flat-square" alt="Focus" /></a> •
 <a href="#projects-and-experiments"><img src="https://img.shields.io/badge/PROJECTS-E3B579?style=flat-square" alt="Projects" /></a> •
 <a href="#tech-inventory"><img src="https://img.shields.io/badge/STACK-60A1D9?style=flat-square" alt="Stack" /></a> •
-<a href="#lab-stats"><img src="https://img.shields.io/badge/STATS-E3B579?style=flat-square" alt="Stats" /></a> •
-<a href="#lets-connect"><img src="https://img.shields.io/badge/CONNECT-60A1D9?style=flat-square" alt="Connect" /></a>
+<a href="#lets-connect"><img src="https://img.shields.io/badge/CONNECT-E3B579?style=flat-square" alt="Connect" /></a>
 
 </div>
 
@@ -92,11 +91,6 @@ Figma for layout and identity, pixel art, ASCII and halftone for mood. Status an
 | **AI and Data** | <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" alt="YOLOv8" /> |
 | **Database and Infrastructure** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> |
 | **Design** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> |
-
-## LAB STATS ⊹
-
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hidnira-lab&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A1D9&icon_color=60A1D9&text_color=8A8A8A" alt="GitHub stats" />
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hidnira-lab&layout=compact&hide_border=true&bg_color=00000000&title_color=60A1D9&text_color=8A8A8A" alt="Top languages" />
 
 <h2 align="center">˖ ࣪ ⊹ - LET'S CONNECT - ⊹ ࣪ ˖</h2>
 
