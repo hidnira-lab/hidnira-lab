@@ -24,9 +24,9 @@
 
 ### • WEB DEVELOPMENT
 
-React, Next.js and Tailwind CSS. Interfaces that stay calm, readable and a little bit playful.
+React, Next.js and TypeScript with Tailwind CSS. Interfaces that stay calm, readable and a little bit playful.
 
-<sub>`React` `Next.js` `Tailwind CSS`</sub>
+<sub>`TypeScript` `React` `Next.js` `Tailwind CSS`</sub>
 
 <br>
 
@@ -46,11 +46,35 @@ APIs with FastAPI and Node.js, data in PostgreSQL and Supabase, shipped in Docke
 <tr>
 <td width="50%" valign="top">
 
+### • MOBILE AND DESKTOP
+
+Flutter and Dart for apps on Windows and Android, with Kotlin where the platform asks for it.
+
+<sub>`Flutter` `Dart` `Kotlin`</sub>
+
+<br>
+
+</td>
+<td width="50%" valign="top">
+
 ### • SYSTEMS
 
-Currently learning Rust, with Java along the way. Slowly getting closer to the metal.
+Learning Rust and writing Go for the shared core, with Java along the way.
 
-<sub>`Rust` `Java`</sub>
+<sub>`Rust` `Go` `Java`</sub>
+
+<br>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### • DATA AND AI
+
+Computer vision, classification and clustering in Python and Jupyter, plus machine learning from scratch in Rust.
+
+<sub>`Python` `Jupyter` `YOLOv8` `Gemini`</sub>
 
 <br>
 
