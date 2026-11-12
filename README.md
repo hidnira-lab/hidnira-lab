@@ -28,6 +28,8 @@ React, Next.js and Tailwind CSS. Interfaces that stay calm, readable and a littl
 
 <sub>`React` `Next.js` `Tailwind CSS`</sub>
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -36,6 +38,8 @@ React, Next.js and Tailwind CSS. Interfaces that stay calm, readable and a littl
 APIs with FastAPI and Node.js, data in PostgreSQL and Supabase, shipped in Docker.
 
 <sub>`Python` `FastAPI` `Node.js` `PostgreSQL` `Supabase` `Docker`</sub>
+
+<br>
 
 </td>
 </tr>
@@ -48,6 +52,8 @@ Currently learning Rust, with Java along the way. Slowly getting closer to the m
 
 <sub>`Rust` `Java`</sub>
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -56,6 +62,8 @@ Currently learning Rust, with Java along the way. Slowly getting closer to the m
 Figma for layout and identity, pixel art, ASCII and halftone for mood. Status and actions stay clean.
 
 <sub>`Figma` `Pixel` `ASCII` `Halftone`</sub>
+
+<br>
 
 </td>
 </tr>
